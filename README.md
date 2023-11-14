@@ -14,5 +14,5 @@ Nevertheless, the scope of our results remains limited by the nature of our spec
 
 # Authors
 DJAFON Kokouvi Joseph
-RAZAFIMANANTENA Iriantsoa
-KAPO Din
+- RAZAFIMANANTENA Iriantsoa
+- KAPO Din
