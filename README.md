@@ -13,6 +13,6 @@ Secondly, our results show more complementarity than substitutability between fo
 Nevertheless, the scope of our results remains limited by the nature of our specification and estimation method. They therefore remain to be confirmed and tested on broader data, with other methods such as those based on neural systems such as the Recursive Neurone network (RNN) or more conventional models of temporal analysis such as ARMA, MGARCH, ARDL, etc.
 
 # Authors
-DJAFON Kokouvi Joseph
+- DJAFON Kokouvi Joseph
 - RAZAFIMANANTENA Iriantsoa
 - KAPO Din
